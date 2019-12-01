@@ -1,2 +1,0 @@
-# cpXP
-student
